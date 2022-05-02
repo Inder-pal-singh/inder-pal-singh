@@ -2,13 +2,13 @@
 <img src="https://firebasestorage.googleapis.com/v0/b/bethere-a213b.appspot.com/o/ggp.png?alt=media&token=1e73867c-e6ad-4c9e-b1a2-dc89bb4f1158" align="center" style="width: 100%" />
 </div>  
   
-### <div align="center"> A freelance developer 👨‍💻 working remotely since 2019 🚀</div>  
+### <div align="center"> A freelance developer 👨‍💻 working remotely since 2018 🚀</div>  
   
 
 - 🔭 I’m currently working as  Frontend developer for mobile App on Project --> GameJoyPro(https://gamejoypro.com/)  
 
 
-- ⚡ Delivered 35+ Freelance projects in 2 years
+- ⚡ Delivered 35+ Freelance projects in 3 years
   
 
 - 🌱 I’m currently learning DS and Exploring Next Gen Web  
