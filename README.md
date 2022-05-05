@@ -123,10 +123,9 @@
 <br/>  
 
 ## Top Langs 
-<div align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inder-pal-singh&hide=html,css&theme=dark&layout=compact&langs_count=6)]()
 
-</div>
 
 ## Recent Blog Posts  
   
