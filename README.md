@@ -131,9 +131,10 @@ If things goes well, Soon I'll post a Blog 😜
 
 <br/>  
 
-  
 
-<br/>  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inder-pal-singh&hide=html,css&theme=dark&layout=compact&langs_count=6)]()
+
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=inder-pal-singh&&style=flat-square" align="center" />
@@ -151,7 +152,4 @@ If things goes well, Soon I'll post a Blog 😜
             </a></div>  
 
 <br/>  
-##
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inder-pal-singh&hide=html,css&theme=dark&layout=compact&langs_count=6)]()
 
