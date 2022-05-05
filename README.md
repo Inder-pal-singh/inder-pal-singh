@@ -153,5 +153,5 @@ If things goes well, Soon I'll post a Blog 😜
 <br/>  
 ##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanthakumaran-s&hide=html,css&theme=dark&layout=compact&langs_count=6)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inder-pal-singh&hide=html,css&theme=dark&layout=compact&langs_count=6)]()
 
