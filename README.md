@@ -38,9 +38,7 @@
 ## FrameWorks/Libraries
 [<img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />]()
 [<img alt="React Js" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>]()
-[<img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>]()
 [<img alt="Next Js" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>]()
-[<img alt="Gatsby Js" src="https://img.shields.io/badge/gatsby%20-%238A4FAF.svg?&style=for-the-badge&logo=gatsby&logoColor=white"/>]()
 [<img alt="Redux Js" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>]()
 [<img alt="Express Js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=white"/>]()
 
@@ -57,10 +55,11 @@
 [<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>]()
 [<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>]()
 [<img alt="Figma" src="https://img.shields.io/badge/figma%20-F34423.svg?&style=for-the-badge&logo=figma&logoColor=white"/>]()
+[<img alt="Xd" src="https://img.shields.io/badge/xd%20-F34423.svg?&style=for-the-badge&logo=XD&logoColor=white"/>]()
 
 
 <div align="center">  
-  
+ 
 </div>  
 
 <div align="center">  
