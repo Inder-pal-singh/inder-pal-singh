@@ -8,7 +8,7 @@
 - 🔭 I’m currently working as  Frontend developer for mobile App on Project --> GameJoyPro(https://gamejoypro.com/)  
 
 
-- ⚡ Delivered 35+ Freelance projects in 3 years
+- ⚡ Delivered 300+ Freelance projects in 3 years
   
 
 - 🌱 I’m currently learning DS and Exploring Next Gen Web  
