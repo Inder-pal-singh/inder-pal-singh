@@ -5,7 +5,7 @@
 ### <div align="center"> A freelance developer 👨‍💻 working remotely since 2018 🚀</div>  
   
 
-- 🔭 I’m currently working as  Frontend developer for mobile App on Project --> GameJoyPro(https://gamejoypro.com/)  
+- 🔭 Tech Enthusiast | Enterprenuer | 
 
 
 - ⚡ Delivered 300+ Freelance projects in 3 years
