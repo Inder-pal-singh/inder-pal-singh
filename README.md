@@ -2,7 +2,7 @@
 <img src="https://firebasestorage.googleapis.com/v0/b/bethere-a213b.appspot.com/o/ggp.png?alt=media&token=1e73867c-e6ad-4c9e-b1a2-dc89bb4f1158" align="center" style="width: 100%" />
 </div>  
   
-### <div align="center"> A freelance developer 👨‍💻 working remotely since 2018 🚀</div>  
+### <div align="center"> Scaling [Net17](https://net17solutions.com) since 2018 🚀</div>  
   
 
 - 🔭 Tech Enthusiast | Enterprenuer | 
