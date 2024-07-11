@@ -1,14 +1,15 @@
 <div align="center">
-<img src="https://cdn2.iconfinder.com/data/icons/ux-and-ui-astute-vol-1/512/Full_Stack_Developer-512.png" align="center" style="width: 30%" />
+<img src="https://cdn2.iconfinder.com/data/icons/ux-and-ui-astute-vol-1/512/Full_Stack_Developer-512.png" align="center" style="width: 10%" />
 </div>  
   
-### <div align="center"> Full Stack Developer | Flutter | Next.JS | Node.JS 🚀</div>  
+## <div align="center" style="font-size:64px"> Full Stack Developer | Flutter | Next.JS | Node.JS 🚀</div>  
+
   
 
 - 🔭 Tech Enthusiast | Enterprenuer | 
 
 
-- ⚡ Delivered 300+ Freelance projects in 3 years
+- ⚡ Freelancing since 2018
   
 
 - 🌱 I’m currently learning DS and Exploring Next Gen Web  
