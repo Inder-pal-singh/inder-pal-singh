@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn2.iconfinder.com/data/icons/ux-and-ui-astute-vol-1/512/Full_Stack_Developer-512.png" align="center" style="width: 100%" />
+<img src="https://cdn2.iconfinder.com/data/icons/ux-and-ui-astute-vol-1/512/Full_Stack_Developer-512.png" align="center" style="width: 30%" />
 </div>  
   
 ### <div align="center"> Full Stack Developer | Flutter | Next.JS | Node.JS 🚀</div>  
