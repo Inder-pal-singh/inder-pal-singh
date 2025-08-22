@@ -9,7 +9,7 @@
 - 🔭 Tech Enthusiast | Enterprenuer | 
 
 
-- ⚡ Founder @ Net17Solutions[https://net17solutions.com/]
+- ⚡ Founder @ Net17Solutions [https://net17solutions.com]
   
 
 - 🌱 I’m currently learning DS and Exploring Next Gen Web  
